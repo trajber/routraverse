@@ -1,4 +1,4 @@
 routraverse
 ===========
 
-A simple FS traversal with goroutines
+A simple filesystem traversal with goroutines
